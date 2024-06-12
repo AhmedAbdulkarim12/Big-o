@@ -10,13 +10,13 @@
 ----  
 **Exercise solutions in the 'array and linked list' file :**
 
-1. Q1: O(n)
-2. Q2: O(n))
-3. Q3: O(1))
-4. Q4: O({n}/{b})
-5. Q5: O(log n) 
-6. Q6: O(sqrt{n})
-7. Q7: O(n) 
-8. Q8: O(n) 
-9. Q9: O(n^2)
-10. Q10: Compilation error, but if e = 0 then O(log n)
+1. **Q1**: O(n)
+2. **Q2**: O(n))
+3. **Q3**: O(1))
+4. **Q4**: O({n}/{b})
+5. **Q5**: O(log n) 
+6. **Q6**: O(sqrt{n})
+7. **Q7**: O(n) 
+8. **Q8**: O(n) 
+9. **Q9**: O(n^2)
+10. **Q10**: Compilation error, but if e = 0 then O(log n)
